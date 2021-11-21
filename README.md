@@ -1,5 +1,5 @@
 # Benvinguts al servidor
-Text
+Aquesta pàgina web està dedicada a la descàrrega del Modpack.
 
 ## Instal·lació del Modpack
 
