@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Benvingut al Servidor
 
 You can use the [editor on GitHub](https://github.com/zwoosks/web-minecraft/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
