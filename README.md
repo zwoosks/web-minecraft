@@ -1,12 +1,15 @@
-## Benvingut al Servidor!
+# Benvinguts al servidor
+Text
 
-You can use the [editor on GitHub](https://github.com/zwoosks/web-minecraft/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## Instal·lació del Modpack
+
+Per poder entrar al servidor, primer es necessita instal·lar tots els mods necessaris.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### TLauncher
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Primer és necessari 
 
 ```markdown
 Syntax highlighted code block
