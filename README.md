@@ -9,32 +9,15 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### TLauncher
 
-Primer és necessari 
+Primer és necessari instal·lar TLaunche. Després:
+1. Obrir TLauncher
+2. Anar a l'apartat de TL Mods (veure captura de pantalla). La primera vegada que s'intenti obrir només es descarregarà "TL Mods". Després de la descàrrega, caldrà tornar a intentar obrir.
+(((Insertar imatge btnMods.png)))
+4. Crear una nou perfil de Forge. Apretar el botó "Crear". Posar el nom que es vulgui i triar la versió 1.12.2. Desprès desmarcar les dos caselles i posar la RAM a un nombre superior a 4.5 GB. Una vegada fet, apretar a "Crear".
+(((Insertar imatge btnCrear.png)))
+(((Insertar imatge crearDialog.png)))
+5. Iniciar el nou perfil creat i tancar el joc una vegada s'obri (Posar nom d'usuari desitjat, seleccionar instal·lació que s'acaba de crear i iniciar).
+(((Insertar imatge iniciarPrimera.png)))
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zwoosks/web-minecraft/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Instal·lador del Modpack
