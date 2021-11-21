@@ -8,8 +8,10 @@ Per poder entrar al servidor, primer es necessita instal·lar tots els mods nece
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### TLauncher
+[Pàgina oficial de TLauncher](https://tlauncher.org/en/ "Pàgina oficial de TLauncher")
 
-Primer és necessari instal·lar TLaunche. Després:
+
+Primer és necessari instal·lar TLauncher. Després:
 1. Obrir TLauncher
 2. Anar a l'apartat de TL Mods (veure captura de pantalla). La primera vegada que s'intenti obrir només es descarregarà "TL Mods". Després de la descàrrega, caldrà tornar a intentar obrir.
 ![Alt text](media/btnMods.png?raw=true "btnMods")
