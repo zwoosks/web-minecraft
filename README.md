@@ -3,7 +3,7 @@ Text
 
 ## Instal·lació del Modpack
 
-Per poder entrar al servidor, primer es necessita instal·lar tots els mods necessaris.
+Per poder entrar al servidor, primer es necessita instal·lar tots els mods necessaris. Degut a que s'utilitza 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
