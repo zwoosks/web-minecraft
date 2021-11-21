@@ -29,4 +29,7 @@ Aquest instal·lador el que farà es descarregar tots els mods i instal·lar-los
 IMPORTANT: Només clicar el botó una vegada o la descàrrega fallirà. Si és així, cal reiniciar el programa.
 ![Alt text](media/installerPrimera.png?raw=true "installerPrimera")
 3. Quan la descàrrega ja estigui, finalment cal indicar el nom que li hem posat a la instal·lació de Forge que s'ha creat abans amb el TLauncher (en el cas d'aquest exemple "Hola" i apretar el botó "Instal·lar mods". Primer s'obrirà un missatge informatiu que s'ha d'acceptar i després, quan la instal·lació acabi, un altre indicant que ja ha acabat la mateixa.
-4. La instal·lació ja ha acabat. Ja es pot iniciar el joc. Cal tenir en ment que degut a la gran quantitat de mods l'inici del joc tardarà bastants minuts, i que és preferible que no hi hagi cap altre programa obert durant l'inicialització.
+![Alt text](media/descomprimir.png?raw=true "descomprimir")
+![Alt text](media/informatiu.png?raw=true "informatiu")
+![Alt text](media/acabat.png?raw=true "acabat")
+5. La instal·lació ja ha acabat. Ja es pot iniciar el joc. Cal tenir en ment que degut a la gran quantitat de mods l'inici del joc tardarà bastants minuts, i que és preferible que no hi hagi cap altre programa obert durant l'inicialització.
